@@ -409,7 +409,7 @@ ggsave("kmeans_Plot.pdf", plot = kmeans_Plot, width = 8, height = 8, dpi = 300)
 
 # Creating a Data Frame with Results
 results_df <- data.frame(
-  species = mydata$Sp,
+  species = mydata$species,
   minimum_frequent_depth = mydata$minimum_frequent_depth,
   maximum_frequent_depth = mydata$maximum_frequent_depth,
   minimum_depth = mydata$minimum_depth,
