@@ -352,7 +352,7 @@ Calinski_Harabasz_plot <- ggplot(ch_data, aes(x = clusters, y = ch_index)) +
 ggsave("Calinski_Harabasz.pdf", plot = Calinski_Harabasz_plot, width = 6, height = 6, device = "pdf")
 
 # The Selected Optimal Number of Clusters
-optimal_k_kmeans <- as.integer(readline(prompt="Optimal Number of Clusters for k-means: "))
+optimal_k_kmeans <- #input optimal number of clasters
 
 # k-means Without PCA
 kmeans_without_pca <- kmeans(scaled_data, centers = optimal_k_kmeans, nstart = 25)
