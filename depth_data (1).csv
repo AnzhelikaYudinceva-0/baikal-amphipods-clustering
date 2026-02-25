@@ -1,0 +1,361 @@
+species;minimum_frequent_depth;maximum_frequent_depth;minimum_depth;maximum_depth
+Crypturopus pachytus (Dybowsky, 1874);1.5;30;0.5;629
+Crypturopus tuberculatus (Dybowsky, 1874);10;15;1.5;99
+Crypturopus tenuipes Bazikalova, 1945;1;7;1;37
+Crypturopus inflatus (Dybowsky, 1874);10;50;2.5;800
+Crypturopus rugosus (Dybowsky, 1874);1.8;20;1.8;50
+Homocerisca perla (Dybowsky, 1874);40;50;10;371
+Homocerisca perloides Bazikalova, 1945;70;200;6;1450
+Homocerisca caudata Bazikalova, 1945;430;900;430;900
+Homocerisca tenuicauda Bazikalova, 1975;60;300;60;300
+Micruropus wahlii (Dybowsky, 1874);0;5;0;42
+Micruropus platycercus (Dybowsky, 1874);0;5;0;154
+Micruropus klukii (Dybowsky, 1874);0.5;10;0;20
+Micruropus talitroides (Dybowsky, 1874);0.5;63;0.5;63
+Micruropus eurypus Bazikalova, 1945;0.5;60;0.5;60
+Micruropus ushkani Bazikalova, 1945;1;10;1;47
+Micruropus possolskii Sowinsky, 1915;0;9;0;9
+Micruropus crassipes Sowinsky, 1915;5;10;5;12
+Micruropus ciliodorsalis Sowinsky, 1915;0;76;0;185
+Micruropus parvulus Bazikalova, 1945;6;680;6;680
+Micruropus mozi Bazikalova, 1945;5;5;5;5
+Micruropus cristatus Dorogostaisky, 1936;6;9;6;9
+Micruropus rostratus Bazikalova, 1962;5;186;5;186
+Micruropus semenowi Bazikalova, 1945;20;119;5;119
+Micruropus dubius Bazikalova, 1962;2;10;1;25
+Micruropus galasii Bazikalova, 1962;3;14;3;14
+Micruropus pupilla Bazikalova, 1962;16;20;16;20
+Micruropus pusillus Bazikalova, 1962;11.5;11.5;11.5;11.5
+Micruropus laeviusculus (Sowinsky, 1915);2;15;0;124
+Micruropus macroconus Bazikalova, 1945;8;71;1.8;71
+Micruropus gurjanowae Bazikalova, 1945;2.7;44;2.7;44
+Micruropus tenuis Bazikalova, 1962;2.4;42;2.4;42
+Micruropus garjajewi Bazikalova, 1945;1.5;37;1.5;37
+Micruropus ivanowi Bazikalova, 1945;1.5;132;1.5;132
+Micruropus eugenii Bazikalova, 1959;1.8;20;1.8;20
+Micruropus latus Bazikalova, 1962;1.5;16;1.5;16
+Micruropus calceolaris Bazikalova, 1945;3.5;37;3.5;37
+Micruropus glaber (Dybowsky, 1874);0.5;15;0.5;70
+Micruropus murini Bazikalova, 1945;4;71;4;71
+Micruropus minutus (Sowinsky, 1915);0.5;54;0.5;54
+Micruropus koshowi Bazikalova, 1945;0.3;25;0.3;25
+Micruropus setosus Bazikalova, 1945;0.5;6;0.5;6
+Micruropus brevicauda Bazikalova, 1945;4;36;4;36
+Micruropus asper Bazikalova, 1962;1.5;7;1.5;7
+Micruropus crassicauda Bazikalova, 1962;2;20;2;20
+Pseudomicruropus lepidiformis Bazikalova, 1962;5;39;5;39
+Pseudomicruropus magnus Bazikalova, 1962;1;10;0.2;115
+Pseudomicruropus chargoensis (Sowinsky, 1915);5;54;5;54
+Pseudomicruropus rotundatulus (Bazikalova, 1945);2;20;0.5;71
+Pseudomicruropus lepidus (Bazikalova, 1945);15;100;8;154
+Quasimicruropus fixsenii (Dybowsky, 1874);20;50;2;110
+Quasimicruropus littoralis (Dybowsky, 1874);0;25;0;100
+Quasimicruropus dybowskii (Bazikalova, 1945);2;20;1;80
+Linevichella vortex (Dybowsky, 1874);0.5;88;0.5;88
+Linevichella vorticella (Bazikalova, 1945);1;54;1;54
+Bazikalovia macrochirus (Bazikalova, 1945);2;3;2;3
+Bazikalovia minima (Bazikalova, 1975);8;51;8;51
+Bazikalovia simplex (Sowinsky, 1915);3;15;3;35
+Eremogammarus puella (Dybowsky, 1874);3;100;3;100
+Baikalogammarus pullus (Dybowsky, 1874);0.5;10;0.5;25
+Echiuropus sempercarinatus Bazikalova, 1975;2;34;2;34
+Echiuropus perplexus Bazikalova, 1975;18.5;50;18.5;50
+Echiuropus levis Bazikalova, 1975;1;78;1;78
+Echiuropus macronychus Sowinsky, 1915;13;14;1;168
+Echiuropus brevicaudatus Sowinsky, 1915;2;66;2;66
+Echiuropus morawitzii (Dybowsky, 1874);1;108;1;108
+Smaragdogammarus smaragdinus (Dybowsky, 1874);0;15;0;150
+Smaragdogammarus gulekani (Bazikalova, 1975);11;11;11;11
+Gmelinoides fasciatus (Stebbing, 1899);0;5;0;5
+Brandtia latissima lata (Dybowsky, 1874);2;40;0;65
+Brandtia latissima acera Dorogostaisky, 1917;1;4;1;4
+Brandtia latissima intermedia Dorogostaisky, 1930;1.5;5;1.5;5
+Brandtia latissima latissima (Gerstfeldt, 1858);0;32;0;170
+Brandtia latissima latior (Dybowsky, 1874);0.5;50;0.5;50
+Brandtia latissima polyspina Dorogostaisky, 1930;4.5;25;4.5;25
+Hyalellopsis nana Bazikalova, 1959;31;37;31;37
+Hyalellopsis bicolorata Bazikalova, 1948;3;10;3;10
+Hyalellopsis irinae Bazikalova, 1959;140;140;140;140
+Hyalellopsis czyrnianskii (Dybowsky, 1874);3;16;3;50
+Hyalellopsis setosa Sowinsky, 1915;4;8;4;8
+Hyalellopsis costata Sowinsky, 1915;2;40;2;40
+Hyalellopsis carinata Sowinsky, 1915;3;20;3;50
+Hyalellopsis variabilis Dorogostaisky, 1930;2;40;2;40
+Hyalellopsis tixtonae Sowinsky, 1915;13;64;13;221
+Hyalellopsis linevitschae Kamaltynov, 2002;5;50;5;50
+Hyalellopsis macrocephala Bazikalova, 1945;62;62;62;62
+Hyalellopsis depressirostris Sowinsky, 1915;4;8;4;8
+Hyalellopsis hamata Sowinsky, 1915;2;10;2;10
+Hyalellopsis grisea Dorogostaisky, 1930;4;15;4;15
+Hyalellopsis stebbingi Sowinsky, 1915;0.5;30;0.5;52.5
+Hyalellopsis taczanowskii (Dybowsky, 1874);30;150;30;150
+Hyalellopsis latipes Bazikalova, 1945;28;270;28;270
+Hyalellopsis latipes selengensis Bazikalova, 1945;50;284;50;284
+Gammarosphaera insularis Bazikalova, 1936;125;125;125;125
+Dorogammarus castaneus (Dorogostaisky, 1930);10;100;10;100
+Boeckaxelia carpenterii (Dybowsky, 1874);30;530;1;530
+Boeckaxelia elegans (Dorogostaisky, 1930);7;106;7;106
+Boeckaxelia profundalis (Bazikalova, 1945);102;880;102;880
+Boeckaxelia potanini (Dorogostaisky, 1922);8;320;8;320
+Boeckaxelia rubra (Garjajeff, 1901);12;157;12;157
+Carinurus reissnerii (Dybowsky, 1874);200;1380;200;1380
+Carinurus amentatus G. Karaman, 1977;136;880;136;880
+Carinurus bifrons G. Karaman, 1977;149;270;149;270
+Carinurus bazikalovae G. Karaman, 1977;6;200;6;200
+Carinurus belkinii (Garjajeff, 1901);100;731;27;731
+Carinurus karamani Kamaltynov, 2002;42;238;42;238
+Carinurus platycarinus (Sowinsky, 1915);23;125;23;125
+Carinurus microphthalmus (Sowinsky, 1915);80;80;80;80
+Carinurus werestschagini Bazikalova, 1935;50;160;50;160
+Carinurus solskii (Dybowsky, 1874);5;192;5;192
+Carinurus obscurus Dorogostaisky, 1922;6;225;6;225
+Carinurus bicarinatus Bazikalova, 1935;200;200;200;200
+Acanthogammarus (Acanthogammarus) godlewskii (Dybowsky, 1874);5;300;5;825
+Acanthogammarus (Ancyracanthus) victorii (Dybowsky, 1874);3;90;0.5;156
+Acanthogammarus (Ancyracanthus) maculosus Dorogostaisky, 1930;10;60;5;202
+Acanthogammarus (Acanthogammarus) gracilispinus Tachteew, 2001;20;100;20;100
+Acanthogammarus (Ancyracanthus) lappaceus Tachteew, 2001;10;60;2;180
+Cornugammarus maximus (Garjajeff, 1901);3;160;3;160
+Diplacanthus brevispinus (Dorogostaisky, 1922);2;200;2;200
+Oxyacanthus subbrevispinus (Bazikalova, 1945);6.5;100;6.5;100
+Oxyacanthus flavus (Garjajeff, 1901);5;61;5;61
+Oxyacanthus rodionowi (Dorogostaisky, 1922);8;11;8;11
+Oxyacanthus curtus (Bazikalova, 1945);9;53;9;53
+Oxyacanthus sowinskii (Bazikalova, 1945);4;70;4;70
+Oxyacanthus korotneffii (Garjajeff, 1901);23;40;23;600
+Brachyuropus nassonowi Dorogostaisky, 1922;100;758;100;758
+Brachyuropus grewingkii (Dybowsky, 1874);300;1380;100;1380
+Brachyuropus reichertii (Dybowsky, 1874);25;1371;25;1371
+Coniurus palmatus Sowinsky, 1915;282;980;282;980
+Coniurus wadimi Sowinsky, 1915;140;140;140;140
+Coniurus radoschkowskii (Dybowsky, 1874);10;850;10;850
+Dorogostaiskia parasitica (Dybowsky, 1874);1.5;140;1.5;140
+Dorogostaiskia parasitica hanajevi Daneliya & V?in?l?, 2014;6;28;6;28
+Dorogostaiskia parasitica kamaltynovi Daneliya & V?in?l?, 2014;7;30;7;30
+Dorogostaiskia parasitica stenocephala Daneliya & V?in?l?, 2014;11;30;11;210
+Dorogostaiskia parasitica ushkaniensis Daneliya & V?in?l?, 2014;20;28;20;28
+Dorogostaiskia birsteini (Bazikalova, 1948);200;200;200;200
+Dorogostaiskia insularis (Dorogostaisky, 1930);20;26;7;26
+Dedyuola armata (Dybowsky, 1874);10;342;3.5;342
+Dedyuola margaritae (Bazikalova, 1959);9;30;9;30
+Dedyuola ongureni (Garjajeff, 1901);140;140;140;140
+Garjajewia cabanisii (Dybowsky, 1874);100;1250;35;1250
+Garjajewia ninae Bazikalova, 1945;37;830;37;830
+Garjajewia dershawini Sowinsky, 1915;30;750;30;750
+Garjajewia dogieli Bazikalova, 1935;300;950;300;950
+Garjajewia sarsi Sowinsky, 1915;104;1641;104;1641
+Paragarjajewia petersii (Dybowsky, 1874);200;1641;85;1641
+Paragarjajewia microphthalma Bazikalova, 1948;300;1050;300;1050
+Leptostenus leptocerus (Dybowsky, 1874);150;877;150;877
+Plesiogammarus (Plesiogammarus) gerstaeckeri (Dybowsky, 1874);40;500;3.5;1610
+Plesiogammarus (Plesiogammarus) martinsoni Tachteew, 1997;92;1240;92;1240
+Plesiogammarus (Plesiogammarus) martinsoni impransus Tachteew, 1997;360;500;360;500
+Plesiogammarus (Caecogammarus) brevis Bazikalova, 1975;4;1520;4;1520
+Plesiogammarus (Caecogammarus) inquaesitus Tachteew, 1997;145;250;145;250
+Plesiogammarus (Caecogammarus) mazepovae Tachteew, 1997;7;950;7;950
+Plesiogammarus (Caecogammarus) timoshkini Tachteew, 1997;102;400;102;400
+Supernogammarus longicornis (Sowinsky, 1915);40;350;40;350
+Sentogammarus zienkowiczii (Dybowsky, 1874);200;1641;112;1641
+Pallasea cancellus (Pallas, 1772);0;10;1;52.5
+Pallasea gerstfeldtii (Dybowsky, 1874);10;150;1.5;150
+Pallaseopsis cancelloides (Gerstfeldt, 1858);1;10;0.3;178
+Pallaseopsis kesslerii (Dybowsky, 1874);1;20;1;100
+Pallaseopsis maligna (Tachteew, 2001);1;30;1;30
+Pallaseopsis grubii (Dybowsky, 1874);1;40;1;175
+Pallaseopsis grubii arenicola Dorogostaisky, 1922;2;15;2;15
+Babr baikali (Stebbing, 1899);1.5;95;1.5;95
+Babr nigromaculatus (Dorogostaisky, 1922);8;20;8;20
+Homalogammarus brandtii (Dybowsky, 1874);10;60;1.5;442
+Homalogammarus tenera (Sowinsky, 1915);40;200;7;350
+Homalogammarus flaviceps (Dorogostaisky, 1922);30;92;7;92
+Pentagonurus viridis (Garjajeff, 1901);0;20;0;300
+Pentagonurus dybowskii (Stebbing, 1899);1;7;1;30
+Propachygammarus dryshenkoi (Garjajeff, 1901);200;1300;10;1300
+Propachygammarus bicornis (Dorogostaisky, 1930);35;40;35;40
+Propachygammarus lamellispinis (Bazikalova, 1945);30;565;30;565
+Burchania meissneri (Bazikalova, 1935);280;884;82;884
+Hakonboeckia strauchii (Dybowsky, 1874);1.5;100;1.5;100
+Nyctoporea sukaczewi (Sowinsky, 1915);60;1050;4;1050
+Poekilogammarus pictus (Dybowsky, 1874);30;100;4;350
+Onychogammarus (Onychogammarus) pictoides (Sowinsky, 1915);3.5;100;3.5;100
+Onychogammarus (Onychogammarus) araneolus (Dybowsky, 1874);5;50;5;50
+Onychogammarus (Onychogammarus) perpolitus (Tachteew, 2000);6;57;6;57
+Onychogammarus (Onychogammarus) megonychus (Sowinsky, 1915);5;37;5;37
+Onychogammarus (Onychogammarus) megonychoides (Bazikalova, 1945);24.5;350;24.5;350
+Onychogammarus (Variogammarus) rectirostris (Bazikalova, 1945);11;105;11;105
+Onychogammarus (Onychogammarus) quinquefasciatus (Dybowsky, 1874);10;50;10;50
+Onychogammarus (Onychogammarus) pygoacanthus (Tachteew, 1995);34;42;34;42
+Onychogammarus (Onychogammarus) erinaceus (Tachteew, 1992);4;105;4;105
+Onychogammarus (Onychogammarus) ephippiatus (Dybowsky, 1874);10;50;10;50
+Onychogammarus (Onychogammarus) dorogostajskii (Tachteew, 1995);15;42;15;42
+Onychogammarus (Onychogammarus) crassimanus (Sowinsky, 1915);1.9;10;1.9;10
+Onychogammarus (Onychogammarus) longipes (Bazikalova, 1945);8.5;20;8.5;20
+Onychogammarus (Variogammarus) curvirostris (Bazikalova, 1945);10;350;10;350
+Berchinia curvimanus (Sowinsky, 1915);108;108;108;108
+Rostrogammarus talitrus (Dybowsky, 1874);80;350;80;350
+Rostrogammarus orchestes (Dybowsky, 1874);150;620;150;620
+Rostrogammarus rostratus (Sowinsky, 1915);100;200;33;790
+Rostrogammarus brevirostris (Bazikalova, 1945);50;100;2.5;122
+Rostrogammarus longirostris (Bazikalova, 1945);100;336;2;336
+Rostrogammarus amblyops (Bazikalova, 1945);503;650;503;650
+Bathygammarus semenkewitschi (Sowinsky, 1915);200;1200;93;1200
+Bathygammarus unguisetosus (Sowinsky, 1915);200;1250;44;1250
+Bathygammarus okunewae (Tachteew, 1995);125;1250;125;1250
+Bathygammarus lydiae (Bazikalova, 1935);200;1250;200;1250
+Gymnogammarus macrurus Sowinsky, 1915;50;108;50;108
+Inobsequentus galini (Tachteew, 2000);30;50;30;50
+Macrohectopus branickii (Dybowsky, 1874);0;1410;0;1410
+Parapallasea lagowskii (Dybowsky, 1874);200;1641;50;1641
+Parapallasea borowskii (Dybowsky, 1874);100;600;10;1176
+Parapallasea wosnessenskii Dorogostaisky, 1922;8;200;8;200
+Parapallasea borowskii abyssalis (Dybowsky, 1874);600;1000;600;1000
+Parapallasea sitnikovae Tachteew, 2001;5;15;5;15
+Palicarinus puzyllii (Dybowsky, 1874);50;200;7;540
+Palicarinus carinulatus (Dorogostaisky, 1922);30;60;3.5;165
+Palicarinus niger (Garjajeff, 1901);30;100;3.5;250
+Ceratogammarus dybowskii Sowinsky, 1915;300;1371;82;1371
+Ceratogammarus acerus Bazikalova, 1937;210;1371;210;1371
+Ceratogammarus cornutus (Sowinsky, 1915);200;700;82;1371
+Polyacanthisca calceolata Bazikalova, 1937;1195;1641;1195;1641
+Eucarinogammarus wagii (Dybowsky, 1874);16;300;16;300
+Eucarinogammarus pallidus Dorogostaisky, 1922;1.5;400;1.5;400
+Carinogammarus cinnamomeus (Dybowsky, 1874);20;100;3;200
+Asprogammarus rhodophthalmus (Dybowsky, 1874);3;35;3;300
+Asprogammarus microphthalmus (Dybowsky, 1874);10;100;1;1350
+Asprogammarus seidlitzii (Dybowsky, 1874);50;1131;6;1131
+Asprogammarus pulchellus (Dybowsky, 1874);300;1250;32;1250
+Asprogammarus bathyphilus Bazikalova, 1975;62;232;62;232
+Asprogammarus macropsis Bazikalova, 1975;54;320;54;320
+Asprogammarus brachyurus Bazikalova, 1975;22;286;22;286
+Asprogammarus strenuus Bazikalova, 1975;120;120;120;120
+Aspretus bekmanae (Mekhanikova, Chapelle & De Broyer, 2001);792;1635;792;1635
+Aspretus puer (Bazikalova, 1975);36;1115;36;1115
+Aspretus pulchelliformis (Bazikalova, 1975);32;920;32;920
+Cheirogammarus inflatus Sowinsky, 1915;790;790;790;790
+Eulimnogammarus verrucosus (Gerstfeldt, 1858);0;10;0;15
+Eulimnogammarus oligacanthus Bazikalova, 1945;0;3;0;3
+Eulimnogammarus lividus (Dybowsky, 1874);0;18.5;0;18.5
+Eulimnogammarus cruentus (Dorogostaisky, 1930);0.5;35;0.5;100
+Eulimnogammarus czerskii (Dybowsky, 1874);1.5;25;1.5;125
+Eulimnogammarus maackii (Gerstfeldt, 1858);0;15;0;40
+Eulimnogammarus heterochirus Bazikalova, 1945;10;10;10;10
+Eulimnogammarus cyanoides (Sowinsky, 1915);3;50;3;165
+Eulimnogammarus burkani Bazikalova, 1945;49;49;49;49
+Eulimnogammarus viridiformis (Sowinsky, 1915);140;140;140;140
+Eulimnogammarus grandimanus Bazikalova, 1945;0;15;0;15
+Eulimnogammarus viridis (Dybowsky, 1874);0;30;0;30
+Eulimnogammarus canus (Dybowsky, 1874);0;12;0;123
+Eulimnogammarus olivaceus (Dybowsky, 1874);0;30;0;30
+Eulimnogammarus viridulus Bazikalova, 1945;0.5;30;0.5;30
+Eulimnogammarus marituji Bazikalova, 1945;0;30;0;30
+Eulimnogammarus vittatus (Dybowsky, 1874);0;2;0;43
+Eulimnogammarus inconspicuus Bazikalova, 1945;0;1;0;1
+Eulimnogammarus testaceus (Dybowsky, 1874);0;1;0;1
+Eulimnogammarus melanochlorus (Dorogostaisky, 1930);1;2;1;2
+Eulimnogammarus cyaneus (Dybowsky, 1874);0;1;0;3.5
+Eulimnogammarus messerschmidtii Bedulina & Tachteew, 2014;0;1;0;1
+Eulimnogammarus cyanellus Bazikalova, 1945;1.5;54;1.5;54
+Eulimnogammarus exiguus Bazikalova, 1945;26;26;26;26
+Eulimnogammarus obsoletus Bazikalova, 1945;1;18.5;1;18.5
+Eulimnogammarus simpliciformis Bazikalova, 1975;5;8;5;8
+Eulimnogammarus fuscus (Dybowsky, 1874);2;20;2;50
+Eulimnogammarus longicornis Bazikalova, 1945;2.5;30;2.5;97
+Eulimnogammarus murinus (Dybowsky, 1874);20;297;3.5;297
+Eulimnogammarus aheneus (Dybowsky, 1874);12;500;12;500
+Eulimnogammarus setosus (Dybowsky, 1874);50;500;50;500
+Eulimnogammarus asetus Bazikalova, 1945;62;594;62;594
+Eulimnogammarus aheneoides Bazikalova, 1945;200;860;68;860
+Eulimnogammarus succineus (Dybowsky, 1874);50;500;50;500
+Eulimnogammarus miniatus (Dybowsky, 1874);50;500;50;500
+Eulimnogammarus similis (Sowinsky, 1915);4;26;4;107
+Eulimnogammarus byrkini (Sowinsky, 1915);10;50;10;50
+Eulimnogammarus proximus (Sowinsky, 1915);25;40;25;40
+Eulimnogammarus hyacinthinus (Dybowsky, 1874);2;100;2;236
+Eulimnogammarus affinis (Sowinsky, 1915);50;120;50;120
+Eulimnogammarus saphirinus (Dybowsky, 1874);300;300;300;300
+Eulimnogammarus virgatus (Dorogostaisky, 1930);200;200;6;200
+Eulimnogammarus stenophthalmus (Dybowsky, 1874);200;298;200;298
+Eulimnogammarus ussolzewii (Dybowsky, 1874);100;697;36;697
+Eulimnogammarus ussolzewii abyssorum (Dybowsky, 1874);200;1000;200;1000
+Eulimnogammarus brachycoxalis Bazikalova, 1945;115;950;100;950
+Eulimnogammarus schamanensis (Dybowsky, 1874);60;200;42;440
+Eulimnogammarus parvexii (Dybowsky, 1874);100;300;20;1300
+Eulimnogammarus parvexiformis Bazikalova, 1945;560;610;560;610
+Eulimnogammarus polyarthrus (Dybowsky, 1874);6;700;6;700
+Eulimnogammarus kusnezowi (Sowinsky, 1915);300;950;189;950
+Eulimnogammarus rachmanowi (Sowinsky, 1915);900;900;900;900
+Eulimnogammarus ibex (Dybowsky, 1874);7;200;7;200
+Eulimnogammarus ibex atrichus Bazikalova, 1945;50;290;4;290
+Eulimnogammarus capreolus (Dybowsky, 1874);25;200;7;200
+Eulimnogammarus toxophthalmus (Dybowsky, 1874);120;120;120;120
+Eulimnogammarus violaceus (Dybowsky, 1874);10;140;1.5;140
+Eulimnogammarus epimeralis (Sowinsky, 1915);14;14;14;14
+Eulimnogammarus sophiae (Dybowsky, 1874);50;140;28;625
+Eulimnogammarus laevis (Sowinsky, 1915);120;120;120;120
+Eulimnogammarus abyssalis (Sowinsky, 1915);1200;1200;1200;1200
+Heterogammarus sophianosii (Dybowsky, 1874);1.5;100;1.5;100
+Heterogammarus sophianosii scirtes (Dybowsky, 1874);1;50;1;50
+Heterogammarus bifasciatus (Dybowsky, 1874);0.5;8;0.5;8
+Tengisia capella (Dybowsky, 1874);82;100;82;100
+Tengisia sowinskii (Bazikalova, 1945);3;300;3;300
+Tengisia ignota (Dybowsky, 1874);800;900;800;900
+Tengisia incerta (Sowinsky, 1915);890;890;890;890
+Profundalia tenuis (Bazikalova, 1945);5;1400;5;1400
+Sluginella (Sluginella) gracilicornis (Bazikalova, 1945);53;263;53;263
+Sluginella (Sluginella) stanislavii (Dybowsky, 1874);100;100;100;100
+Sluginella (Sluginella) pachycerus (Bazikalova, 1945);53;200;53;838
+Sluginella (Lamugammarus) kietlinskii (Dybowsky, 1874);1;1200;1;1200
+Sluginella (Lamugammarus) macrophthalma (Bazikalova, 1945);150;800;9;800
+Sluginella (Lamugammarus) tenuipes (Sowinsky, 1915);9;891;9;891
+Sluginella (Lamugammarus) crassicornis (Sowinsky, 1915);90;294;90;294
+Barguzinia calceolata (Sowinsky, 1915);1240;1240;1240;1240
+Abyssogammarus sarmatus (Dybowsky, 1874);405;1329;405;1329
+Abyssogammarus echinatus Bazikalova, 1935;102;758;102;758
+Abyssogammarus gracilis Sowinsky, 1915;450;625;450;625
+Abyssogammarus minor Bazikalova, 1945;354;354;354;354
+Laxmannia swartschewskii (Sowinsky, 1915);185;1300;185;1300
+Lobogammarus latus Bazikalova, 1945;470;731;470;731
+Pachyschesis branchialis (Dybowsky, 1874);30;200;30;200
+Pachyschesis bazikalovae G. Karaman, 1976;100;1050;100;1050
+Pachyschesis crassus (Sowinsky, 1915);270;1240;270;1240
+Pachyschesis bergi Bazikalova, 1945;250;1050;250;1050
+Pachyschesis acanthogammarii Tachteew, 2001;100;980;100;980
+Pachyschesis bumammus Tachteew, 2001;192;830;192;830
+Pachyschesis cucuschonok Tachteew, 2001;102;1050;102;1050
+Pachyschesis indiscretus Tachteew, 2001;14;50;14;50
+Pachyschesis inquilinus Tachteew, 2001;400;830;400;830
+Pachyschesis karabanowi Tachteew, 2001;300;1050;300;1050
+Pachyschesis lamakini Tachteew, 2001;170;1050;170;1050
+Pachyschesis pinguiculus Tachteew, 2001;145;920;145;920
+Pachyschesis punctiommatus Tachteew, 2001;196;1050;196;1050
+Pachyschesis rarus Tachteew, 2001;775;1050;775;1050
+Pachyschesis sideljowae Tachteew, 2001;100;810;100;810
+Pachyschesis vorax Tachteew, 2001;775;1080;775;1080
+Odontogammarus caeculus Tachteew, 1999;420;490;420;490
+Odontogammarus calcaratus (Dybowsky, 1874);100;200;5;554
+Odontogammarus pulcherrimus Dorogostaisky, 1930;100;200;27;565
+Odontogammarus improvisus Dorogostaisky, 1930;6;170;6;170
+Odontogammarus brevipes Dorogostaisky, 1930;3.5;70;3.5;70
+Odontogammarus margaritaceus (Dybowsky, 1874);500;1300;150;1300
+Odontogammarus bekmanae Tachteew, 1999;475;1300;475;1300
+Odontogammarus demianowiczi Dorogostaisky, 1930;200;400;200;400
+Odontogammarus korotnewi (Sowinsky, 1915);28;246;28;246
+Ommatogammarus albinus (Dybowsky, 1874);150;1641;47;1641
+Abludogammarus flavus (Dybowsky, 1874);100;600;2.5;1313
+Pretiositus carneolus (Dybowsky, 1874);500;1320;35;1320
+Pretiositus amethystinus (Dybowsky, 1874);500;1313;35;1313
+Pretiositus melanophthalmus (Bazikalova, 1945);150;300;150;300
+Macropereiopus flori (Dybowsky, 1874);8;1371;8;1371
+Macropereiopus albulus (Dybowsky, 1874);40;1615;4;1615
+Macropereiopus parvus Bazikalova, 1945;30;61;4;1340
+Macropereiopus leucophthalmus (Sowinsky, 1915);60;200;22;1350
+Macropereiopus wagneri Sowinsky, 1915;50;200;5;1380
+Macropereiopus dagarskii Sowinsky, 1915;30;50;7;778
+Macropereiopus grandimanus Bazikalova, 1945;13;1450;13;1450
+Macropereiopus mirus Bazikalova, 1975;11;39;11;39
+Metapallasea galinae Bazikalova, 1959;5;71;5;71
+Koshovia mirabilis Bazikalova, 1975;32;69;32;69
+Leptostenus westschevi Tachteew, 2021;15;38;15;38
+Leptostenus solontsovii Tachteew, 2021;78;120;78;120
+Eulimnogammarus tchernykhi Moskalenko, Neretina & Yampolsky, 2020;15;20;15;20
+Eulimnogammarus etingovae Moskalenko, Neretina & Yampolsky, 2020;10;20;10;20
